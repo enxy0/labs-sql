@@ -15,5 +15,6 @@ VALUES(
         'Weston',
         'Dianne',
         'IL',
-        'A10' 'Chicago'
+        'A10',
+        'Chicago'
     );

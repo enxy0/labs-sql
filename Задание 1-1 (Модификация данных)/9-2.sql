@@ -14,4 +14,4 @@ VALUES (
         'Bell',
         '415-225-4689',
         '810 Throckmorton Ave',
-        "Mill Valley',  'CA',  '94941');
+        'Mill Valley',  'CA',  '94941');
